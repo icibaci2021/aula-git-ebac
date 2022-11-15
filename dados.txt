@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Paula Midori
+-Profissão: Analista de Teste Funcional Junior
+-Cidade: São Paulo
+-O que faz nas horas vaga: Estudo e descanso
+-Feedback sobre o curso Qualidade de Software:As aulas mais técnicas estão um pouco dificeis para novatos na área de TI
+-Feedback sobre a plataforma de estudo da EBAC: Muito boa
 
 Obrigado!!!
 
